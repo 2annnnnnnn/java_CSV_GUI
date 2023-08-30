@@ -38,6 +38,7 @@ ex)
 
 ex)
 
-<img width="898" alt="Screenshot 2023-07-25 at 1 44 23 PM" src="https://github.com/2annnnnnnn/java_CSV_GUI/assets/130524551/c73eb4ce-f410-4fcb-b4bf-a347f1c62400">
+<img width="896" alt="Screenshot 2023-08-30 at 10 55 45 PM" src="https://github.com/2annnnnnnn/java_CSV_GUI/assets/130524551/3054b0ae-db14-4b58-9603-a0c2273ed3ec">
+
 
 <img width="898" alt="Screenshot 2023-07-25 at 1 45 35 PM" src="https://github.com/2annnnnnnn/java_CSV_GUI/assets/130524551/5708512a-5f37-4daa-a7d9-9360252eba98">
